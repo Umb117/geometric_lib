@@ -78,6 +78,41 @@ Librabry of functions calculating areas and perimeters of figures.
     >> 9 
     ```
   
+### Tests
+
+CircleTestCase:<br/>
+&emsp;test_default_area();<br/>
+&emsp;test_area_zero_radius();<br/>
+&emsp;test_area_negative_value();<br/>
+&emsp;test_default_perimeter();<br/>
+&emsp;test_zero_perimeter();<br/>
+&emsp;test_perimeter_negative_value
+
+RectangleTestCase:<br/>
+&emsp;test_default_area<br/>
+&emsp;test_area_zero_area();<br/>
+&emsp;test_area_negative_value();<br/>
+&emsp;test_default_perimeter();<br/>
+&emsp;test_zero_perimeter;<br/>
+&emsp;test_perimeter_negative_value();
+
+SquareTestCase:<br/>
+&emsp;test_default_area<br/>
+&emsp;test_area_zero_area();<br/>
+&emsp;test_area_negative_value();<br/>
+&emsp;test_default_perimeter();<br/>
+&emsp;test_zero_perimeter;<br/>
+&emsp;test_perimeter_negative_value();
+
+TriangleTestCase:<br/>
+&emsp;test_default_area<br/>
+&emsp;test_area_zero_area();<br/>
+&emsp;test_area_negative_value();<br/>
+&emsp;test_default_perimeter();<br/>
+&emsp;test_zero_perimeter;<br/>
+&emsp;test_perimeter_negative_value();
+
+
 -----
 ### Commit history
 ![screenshot](logs_history.png)
